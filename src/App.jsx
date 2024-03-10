@@ -21,6 +21,8 @@ import './App.css'
   <Tech/>
   <Works/>
   <CertificationCard/>
+  
+  <h1>Swipe</h1>
   {/* <Feedbacks/> */}
   <div className='relative z-0'>
     <Contact/>

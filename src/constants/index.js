@@ -31,6 +31,7 @@ import {
     github,
     tripguide,
     threejs,
+    ljmu,
   } from "../assets";
 
   export const certificate = [
@@ -136,51 +137,34 @@ import {
       company_name: "NTT Data",
       icon: ntt,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: " 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "• Collaborated with a team to maintain a Big Data based Ticketing System",
+        "• Utilized React and SQL for creating a Dashboard to analyse the Data incoming from Station terminals.",
+        "• Automated and optimised the shell scripts in production, working with Ubuntu 20.04 , and deployed other Linux tools."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Master Thesis Project",
+      company_name: "LJMU,UK",
+      icon: ntt,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: " 2022 - 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Sentiment Analysis and Sarcasm Detection for MS.", 
+        "A BERT based Transformers model to Detect Sarcasm Detection in Tweets."
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Frontend Developer",
+      company_name: "NTT Data",
+      icon: ljmu,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: " 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed a full stack Flutter Application for calculating Carbon footprint of a user.",
+        "Internationalized a React FoodStore Application to be available for different Regions of world",
+        
       ],
     },
   ];

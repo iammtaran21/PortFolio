@@ -33,8 +33,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Resume from "./Resume.png";
 import DS_Port from "./DS_Port.png";
-
+import ljmu from './ljmu.png';
 export {
+  ljmu,
   DS_Port,
   Resume,
   IIT_M,
